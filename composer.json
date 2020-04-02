@@ -2,7 +2,6 @@
     "name": "deniska/msgraph-simple-bridge",
     "description": "Microsoft Graph API bridge",
     "require": {
-        "php": "^7.1",
         "league/oauth2-client": "dev-master",
         "microsoft/microsoft-graph": "^1.13"
     }
